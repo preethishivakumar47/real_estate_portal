@@ -1,4 +1,4 @@
-"# Real Estate Project - Frontend
+Real Estate Project - Frontend
 
 A modern real estate web application built with React, TypeScript, and Vite.
 
